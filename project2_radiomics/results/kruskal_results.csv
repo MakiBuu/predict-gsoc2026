@@ -1,0 +1,15 @@
+feature,kruskal_stat,p_value
+shape_Sphericity,24.3807,0.0
+shape_SurfaceVolumeRatio,24.9813,0.0
+shape_Maximum3DDiameter,24.738,0.0
+glcm_Contrast,26.0239,0.0
+hu_mean,25.7574,0.0
+calcium_volume_mm3,27.5977,0.0
+hu_max,26.9463,0.0
+glszm_SmallAreaEmphasis,21.3583,0.0001
+glrlm_RunPercentage,20.6358,0.0001
+glszm_ZonePercentage,20.9958,0.0001
+glszm_LargeAreaEmphasis,20.9147,0.0001
+glrlm_ShortRunEmphasis,20.7523,0.0001
+glrlm_LongRunEmphasis,20.7789,0.0001
+glcm_Correlation,7.3993,0.0602

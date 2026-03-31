@@ -1,0 +1,15 @@
+feature,spearman_rho,p_value
+calcium_volume_mm3,0.9955,0.0
+hu_max,0.9805,0.0
+shape_Maximum3DDiameter,0.9516,0.0
+glcm_Contrast,0.9378,0.0
+hu_mean,0.926,0.0
+glszm_LargeAreaEmphasis,0.7911,0.0
+glrlm_ShortRunEmphasis,0.7703,0.0
+glrlm_RunPercentage,0.7583,0.0
+glrlm_LongRunEmphasis,0.622,0.0002
+glszm_SmallAreaEmphasis,0.6179,0.0003
+glszm_ZonePercentage,0.5959,0.0005
+shape_SurfaceVolumeRatio,0.4696,0.0088
+shape_Sphericity,0.4527,0.012
+glcm_Correlation,0.4137,0.0231

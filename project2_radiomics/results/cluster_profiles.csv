@@ -1,0 +1,5 @@
+cluster,shape_Sphericity,shape_SurfaceVolumeRatio,shape_Maximum3DDiameter,glcm_Contrast,glcm_Correlation,glszm_SmallAreaEmphasis,glszm_LargeAreaEmphasis,glszm_ZonePercentage,glrlm_ShortRunEmphasis,glrlm_LongRunEmphasis,glrlm_RunPercentage,hu_max,hu_mean,calcium_volume_mm3
+0,0.5252,2.0753,50.8477,42.4175,0.034,0.7881,2.6904,0.7229,0.9748,1.1042,0.9683,557.6667,249.3792,132.1775
+1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+2,0.3278,1.5689,106.7048,117.2841,0.1269,0.7868,2.8318,0.7049,0.9796,1.0884,0.9731,1176.3333,309.5333,1071.385
+3,0.66,4.7822,6.2584,9.0417,-0.756,0.925,1.3,0.9167,0.9812,1.075,0.9792,176.5,155.25,2.94
